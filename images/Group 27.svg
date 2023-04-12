@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="245" height="149" viewBox="0 0 245 149">
+  <g id="Group_27" data-name="Group 27" transform="translate(-1122.125 -606)">
+    <g id="Group_19" data-name="Group 19" transform="translate(1078.625 -246)">
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="245" height="149" rx="10" transform="translate(43.5 852)" fill="#fff"/>
+      <text id="Voucher_Cloud" data-name="Voucher Cloud" transform="translate(210.5 977)" fill="#707070" font-size="8" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Voucher Cloud</tspan></text>
+      <text id="_10_Off_Emirates_Packages" data-name="10% Off Emirates Packages" transform="translate(64.5 885)" font-size="12" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">10% Off Emirates Packages</tspan></text>
+      <text id="Terms_and_conditions_apply" data-name="Terms and conditions apply" transform="translate(64.5 977)" fill="#707070" font-size="8" font-family="Poppins-Regular, Poppins" text-decoration="underline"><tspan x="0" y="0">Terms and conditions apply</tspan></text>
+    </g>
+    <g id="Rectangle_17" data-name="Rectangle 17" transform="translate(1154 666)" fill="#e1e4f7" stroke="#707070" stroke-width="1" stroke-dasharray="5">
+      <rect width="181" height="29" stroke="none"/>
+      <rect x="0.5" y="0.5" width="180" height="28" fill="none"/>
+    </g>
+    <text id="EK10OFF" transform="translate(1245 685)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="-23.124" y="0">EK10OFF</tspan></text>
+  </g>
+</svg>
